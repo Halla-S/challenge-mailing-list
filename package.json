@@ -1,0 +1,19 @@
+{
+  "name": "challenge-mailing-list",
+  "version": "1.0.0",
+  "description": "_**Credit:** This challenge was created by [Techtonica](https://github.com/Techtonica/curriculum). You can find the original [here](https://github.com/Techtonica/curriculum/blob/main/projects/mailing-list-rest-api.md)._",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
